@@ -4,7 +4,7 @@ A shell script is simply a text file containing commands that the shell (bash, s
 
 ✨ Why use shell scripts?
 
--Automate repetitive tasks (backups, deployments, housekeeping).
+-Automate repetitive tasks (backups, deployments).
 
 -Simplify complex command sequences.
 
@@ -14,10 +14,8 @@ A shell script is simply a text file containing commands that the shell (bash, s
 
 📄 Basic structure of a shell script
 #!/bin/bash
-# This is a comment
 
 echo "Hello, World!"
-
 ______________________________________________________________________
 -#!/bin/bash → shebang line tells the system which interpreter to use.
 
