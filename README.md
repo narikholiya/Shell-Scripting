@@ -1,4 +1,5 @@
 🖥️Shell Scripting
+
 A shell script is simply a text file containing commands that the shell (bash, sh, zsh, etc.) can read and execute.
 
 ✨ Why use shell scripts?
